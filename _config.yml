@@ -1,6 +1,6 @@
 title: my website
 description: official website for jordensmiley
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
