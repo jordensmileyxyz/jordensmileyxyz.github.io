@@ -1,2 +1,2 @@
-# jordensmileyxyz.github.io
+# about me!
 hi
